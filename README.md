@@ -1,4 +1,3 @@
-# DecodeLabs_task3
 
 ----
 
